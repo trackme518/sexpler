@@ -17,7 +17,10 @@
 
 </br>
 </br>
-   
+
+### About
+It is meant as a joke but it is based on some real social taboos related to sex. Specifically the anxiety from "having to perform", authenticity and commercialization of sex as a product. 
+
 ### Built With
 Sexpler was made with <a href="https://android.processing.org/install.html" target="_blank">Processing for Android</a>. Thanks Processing foundation for this awesome Java based open source framework! 
 
