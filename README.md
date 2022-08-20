@@ -81,9 +81,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-https://github.com/trackme518/sexpler/blob/main/images/snap1.jpg
-![App Screenshot 1](https://github.com/trackme518/sexpler/blob/main/images/snap1.jpg?raw=true "Employee Data title")
+<img src="https://github.com/trackme518/sexpler/blob/main/images/snap1.jpg" width="200" />  
+<img src="https://github.com/trackme518/sexpler/blob/main/images/snap2.jpg" width="200" />    
+<img src="https://github.com/trackme518/sexpler/blob/main/images/snap3.jpg" width="200" />  
+  
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
