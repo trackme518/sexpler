@@ -49,5 +49,6 @@ Made by Vojtěch Leischner
 ## Acknowledgments
 Following people participated in the project:
 
-* Anna Uno Webnutá
-* Martin Vlček
+* Anna Uno Webnutá - actor
+* Martin Vlček - actor
+* Matěj Macháček - cameraman
