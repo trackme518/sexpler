@@ -52,3 +52,4 @@ Following people participated in the project:
 * Anna Uno Webnutá - actor
 * Martin Vlček - actor
 * Matěj Macháček - cameraman
+* Anonymous Actor
