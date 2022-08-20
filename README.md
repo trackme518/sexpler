@@ -25,12 +25,12 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  [![Watch the video](images/thumb.jpg)](https://youtu.be/ayAVIRYbNU4)
+
+  [![Watch the video](https://github.com/trackme518/sexpler/blob/main/images/youtube_thumb.jpg)](https://youtu.be/ayAVIRYbNU4)
 
   <h3 align="center">Best-README-Template</h3>
 
