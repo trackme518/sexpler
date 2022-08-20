@@ -82,8 +82,8 @@
 ## About The Project
 
 <img src="https://github.com/trackme518/sexpler/blob/main/images/snap1.jpg" width="200" align="left" />  
-<img src="https://github.com/trackme518/sexpler/blob/main/images/snap2.jpg" width="200" />    
-<img src="https://github.com/trackme518/sexpler/blob/main/images/snap3.jpg" width="200" align="right" />  
+<img src="https://github.com/trackme518/sexpler/blob/main/images/snap2.jpg" width="200" align="left" />    
+<img src="https://github.com/trackme518/sexpler/blob/main/images/snap3.jpg" width="200" align="left" />  
   
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
