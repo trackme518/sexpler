@@ -41,8 +41,8 @@
 <img src="https://github.com/trackme518/sexpler/blob/main/images/snap3.jpg" width="200" align="left" />  
   
 <p><i>“Are you shy to make sounds during sex intercourse? You no longer have to be. Sexpler app will moan instead of you!"</i></p>
-No more awkward silent sex! Problem solved.
-Inspired by Shakeweight. Sexpler is an Android App that uses your mobile phone accelerometer to sense your humping and it moans intead of you. So you can keep quite while our app will make the hard work for you. Simple but effective! Please donate so we can record more sex sounds - you can switch between various genres by tapping on gender icon. Currently we only feature single voice for either man or female and you can also select the mixed option when the voice is picked up randomly.
+<p>No more awkward silent sex! Problem solved. Inspired by Shakeweight.</p>
+<p>Sexpler is an Android App that uses your mobile phone accelerometer to sense your humping and it moans intead of you. So you can keep quite while our app will make the hard work for you. Simple but effective! Please donate so we can record more sex sounds - you can switch between various genres by tapping on gender icon. Currently we only feature single voice for either man or female and you can also select the mixed option when the voice is picked up randomly.</p>
 
 ### Built With
 Sexpler was made with <a href="https://android.processing.org/install.html" target="_blank">Processing for Android</a>. Thanks Processing foundation for this awesome Java based open source framework! 
