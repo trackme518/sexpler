@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
  <h3 align="center">Watch About video on YouTube:<h3> 
- <a href="https://youtu.be/ayAVIRYbNU4" target="_blank"><img src="https://github.com/trackme518/sexpler/blob/main/images/youtube_thumb.jpg"/></a>
+ <a href="https://youtu.be/ayAVIRYbNU4" target="_blank"><img src="https://github.com/trackme518/sexpler/blob/main/images/youtube_thumb2.jpg"/></a>
 </div>
 
 <!-- ABOUT THE PROJECT -->
