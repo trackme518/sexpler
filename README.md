@@ -30,7 +30,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  [![Watch the video](images/thumb.jpg)](https://youtu.be/ayAVIRYbNU4)
+
+  [![Watch the video](https://github.com/trackme518/sexpler/blob/main/images/thumb.jpg)](https://youtu.be/ayAVIRYbNU4)
 
   <h3 align="center">Best-README-Template</h3>
 
