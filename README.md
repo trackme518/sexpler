@@ -1,5 +1,4 @@
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
  <h3 align="center">Watch About video on YouTube:<h3> 
  [![Watch the video](https://github.com/trackme518/sexpler/blob/main/images/youtube_thumb.jpg)](https://youtu.be/ayAVIRYbNU4)
