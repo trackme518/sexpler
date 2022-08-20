@@ -33,7 +33,7 @@ Strap the mobile to your waist using belt, tape or other methods. If you have cl
 
 <!-- CONTRIBUTING -->
 ## Contributing
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. If you want to have your moaning featured in the future release of the App please record yourself and upload the recording on [freesound.org](https://freesound.org/) - open source audio samples platform. After your sound is published please send a link! Make sure that your recording is good quality and that you select Creative Commons licence 0.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. If you want to have your moaning featured in the future release of the App please record yourself and upload the recording on [freesound.org](https://freesound.org/) - open source audio samples platform. After your sound is published please send us a link! Make sure that your recording is good quality and that you select Creative Commons licence 0 otherwise we won't be able to use it.
 
 <!-- LICENSE -->
 ## License
@@ -41,7 +41,6 @@ Distributed under the Creative Commons Attribution, Non-Commercial, No-derivativ
 
 <!-- CONTACT -->
 ## Contact
-
 Made by Vojtěch Leischner
 <a target="_blank" href="https://trackmeifyoucan.com">Track me if you can</a>
 <a target="_blank" href="https://tricktheear.eu">Trick the Ear</a>
