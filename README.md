@@ -26,7 +26,7 @@ Sexpler was made with <a href="https://android.processing.org/install.html" targ
   
 Just download the build .apk file to your Android phone. Locate it in your file browser and select install. You will need to allow installing from unkwon sources first. We do not track any data whatsoever so you don't have to worry about that. 
 
-<a target="_blank" href="https://github.com/trackme518/sexpler/raw/main/BUILD/sexpler_scale_release_signed_aligned.apk">DOWNLOAD</a>
+<a target="_blank" href="https://github.com/trackme518/sexpler/releases/download/android_main/sexpler_scale_release_signed_aligned.apk">DOWNLOAD</a>
 
 ## Getting Started
 Strap the mobile to your waist using belt, tape or other methods. If you have clothes on you can use your back pocket or put it in your bra. Then make sure the sound is on (mouth icon is open), select appropriate gender and start pumping. 
