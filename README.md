@@ -44,9 +44,10 @@ Distributed under the Creative Commons Attribution, Non-Commercial, No-derivativ
 
 <!-- CONTACT -->
 ## Contact
-Made by Vojtěch Leischner
+Made by Vojtěch Leischner, contact form: 
+<a target="_blank" href="https://tricktheear.eu/contact/">Trick the Ear</a>
+<br>
 <a target="_blank" href="https://trackmeifyoucan.com">Track me if you can</a>
-<a target="_blank" href="https://tricktheear.eu">Trick the Ear</a>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
