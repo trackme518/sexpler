@@ -40,11 +40,11 @@ Contributions are what make the open source community such an amazing place to l
 
 <!-- LICENSE -->
 ## License
-Distributed under the Creative Commons Attribution, Non-Commercial, No-derivatives licence, <a target="_blank" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">find out more</a>.
+Distributed under the Creative Commons Attribution, Non-Commercial, No-derivatives licence, <a target="_blank" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">find out more</a>. Created 2018 by Vojtěch Leischner - www.tricktheear.eu
 
 <!-- CONTACT -->
 ## Contact
-Made by Vojtěch Leischner, email me at: 
+Made by Vojtěch Leischner 2018©, email me at: 
 <a target="_blank" href="https://tricktheear.eu/contact/">Trick the Ear</a>
 <br>
 Personal website: <a target="_blank" href="https://trackmeifyoucan.com">Track me if you can</a>
